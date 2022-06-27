@@ -2,7 +2,7 @@ import Button from '../Button';
 import {globalCss} from "../../stitches.config";
 
 export default {
-    title: 'Button',
+    title: 'Form/Button',
     component: Button,
     argTypes : {
         size: {
