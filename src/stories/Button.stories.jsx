@@ -17,6 +17,9 @@ export default {
 const globalStyles = globalCss({
     html: {
         fontSize: '16px',
+    },
+    "*": {
+        boxSizing: 'border-box'
     }
 });
 
@@ -26,8 +29,7 @@ const Template = (args) => {
 };
 
 export const Primary = Template.bind({});
-Primary.args = {
-};
+
 
 
 

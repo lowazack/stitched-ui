@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Button/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Button/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Button.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Introduction.stories.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/code-brackets.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/colors.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/comments.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/direction.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/flow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/plugin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/repo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/assets/stackalt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stitches.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="building initial button component">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Button.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Button.stories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stitches.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/stitches.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656276823215</updated>
-      <workItem from="1656276824926" duration="13011000" />
+      <workItem from="1656276824926" duration="16820000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656281110148</created>
@@ -79,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656281110148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="building initial button component">
+      <created>1656314305251</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656314305251</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="building initial button component" />
+    <option name="LAST_COMMIT_MESSAGE" value="building initial button component" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

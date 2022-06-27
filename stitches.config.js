@@ -23,12 +23,17 @@ export const {
             reg: '1rem',
             p1: '1.2rem'
         },
-        fontWeights: {},
+        fontWeights: {
+            buttonWeight: 600
+        },
         fonts: {},
-        transitions: {},
+        transitions: {
+            allFast: 'all 100ms ease-in-out'
+        },
         shadows: {},
         space: {
-            md: `${defaultSpace * 0.5}px`,
+            sm: `${defaultSpace * 0.5}px`,
+            md: `${defaultSpace * 0.75}px`,
             reg: `${defaultSpace}px`,
             lg: `${ defaultSpace * 2 }px`,
             xl: `${ defaultSpace * 4 }px`,
@@ -36,7 +41,20 @@ export const {
         borderRadius: {
             button: 0
         },
+        borderWidths: {
+            button: 4
+        },
+        borderStyles: {
+            button: 'solid'
+        }
     },
     media: {},
-    utils: {}
+    utils: {
+        px: value => {
+            return {
+                paddingLeft: value,
+                paddingRight: value,
+            }
+        }
+    }
 })
