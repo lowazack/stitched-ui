@@ -17,7 +17,10 @@ export const {
         colors: {
             primary: '#2d98da',
             textLight: '#ffffff',
-            border: '#808e9b'
+            body: '#f6f9f8',
+            offBodyDark: '#e1e9ec',
+            offBodyLight: '#ffffff',
+            border: '#808e9b',
         },
         fontSizes: {
             n1: '0.833rem',
@@ -42,14 +45,17 @@ export const {
         borderRadius: {
             button: 0,
             checkbox: 0,
+            input: 0,
         },
         borderWidths: {
-            button: '3px',
-            checkbox: '2px'
+            button: '2px',
+            checkbox: '2px',
+            input: '2px',
         },
         borderStyles: {
             button: 'solid',
-            checkbox: 'solid'
+            checkbox: 'solid',
+            input: 'solid',
         },
         sizes: {
             checkbox: '20px'

@@ -1,5 +1,3 @@
-import React from 'react';
-
 import {globalCss} from "../../stitches.config";
 import Checkbox from "../Checkbox";
 

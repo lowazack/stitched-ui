@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="creating checkbox component">
-      <change afterPath="$PROJECT_DIR$/src/Checkbox/Checkbox.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Checkbox/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Checkbox.stories.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicInput/BasicInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicInput/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/BasicInput.stories.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Button.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Button.stories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Checkbox.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Checkbox.stories.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stitches.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/stitches.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jack/Code/react/stitched-ui/src/stories",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -45,6 +46,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/stories" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/Button" />
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656276823215</updated>
-      <workItem from="1656276824926" duration="23061000" />
+      <workItem from="1656276824926" duration="25764000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656281110148</created>
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656355034732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creating checkbox component">
+      <created>1656363819594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656363819594</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +111,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="building initial button component" />
     <MESSAGE value="building button component" />
@@ -114,6 +127,12 @@
           <line>43</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Checkbox/Checkbox.jsx</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
