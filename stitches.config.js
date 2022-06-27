@@ -17,6 +17,7 @@ export const {
         colors: {
             primary: '#2d98da',
             textLight: '#ffffff',
+            border: '#808e9b'
         },
         fontSizes: {
             n1: '0.833rem',
@@ -28,7 +29,7 @@ export const {
         },
         fonts: {},
         transitions: {
-            allFast: 'all 100ms ease-in-out'
+            allFast: 'all 200ms ease-in-out'
         },
         shadows: {},
         space: {
@@ -39,13 +40,19 @@ export const {
             xl: `${ defaultSpace * 4 }px`,
         },
         borderRadius: {
-            button: 0
+            button: 0,
+            checkbox: 0,
         },
         borderWidths: {
-            button: 4
+            button: '3px',
+            checkbox: '2px'
         },
         borderStyles: {
-            button: 'solid'
+            button: 'solid',
+            checkbox: 'solid'
+        },
+        sizes: {
+            checkbox: '20px'
         }
     },
     media: {},
