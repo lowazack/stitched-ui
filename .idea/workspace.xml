@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="Button updates">
-      <change afterPath="$PROJECT_DIR$/src/Badge/Badge.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Badge/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Badge.stories.jsx" afterDir="false" />
+    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="creating badge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/BasicInput.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/BasicInput.stories.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/Button.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Button.stories.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stories/Checkbox.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Checkbox.stories.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stitches.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/stitches.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Badge.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Badge.stories.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656276823215</updated>
-      <workItem from="1656276824926" duration="33741000" />
+      <workItem from="1656276824926" duration="34704000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656281110148</created>
@@ -109,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656366614820</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="creating badge">
+      <created>1656449004948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656449004948</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +135,8 @@
     <MESSAGE value="creating checkbox component" />
     <MESSAGE value="creating basic input" />
     <MESSAGE value="Button updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Button updates" />
+    <MESSAGE value="creating badge" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating badge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
