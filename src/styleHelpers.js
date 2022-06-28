@@ -12,4 +12,10 @@ function paddingY(value){
     }
 }
 
-export {paddingX, paddingY}
+function marginLeft(value, side){
+    return {
+        marginLeft: value,
+    }
+}
+
+export {paddingX, paddingY, marginLeft}

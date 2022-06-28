@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="showing badge options">
-      <change afterPath="$PROJECT_DIR$/src/Chip/Chip.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chip/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Chip.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styleHelpers.js" afterDir="false" />
+    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment=" creating chip component">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chip/Chip.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chip/Chip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Chip.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Chip.stories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styleHelpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styleHelpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stitches.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/stitches.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656276823215</updated>
-      <workItem from="1656276824926" duration="36258000" />
+      <workItem from="1656276824926" duration="39385000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656281110148</created>
@@ -120,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656449961492</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" creating chip component">
+      <created>1656451538615</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656451538615</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +154,8 @@
     <MESSAGE value="Button updates" />
     <MESSAGE value="creating badge" />
     <MESSAGE value="showing badge options" />
-    <option name="LAST_COMMIT_MESSAGE" value="showing badge options" />
+    <MESSAGE value=" creating chip component" />
+    <option name="LAST_COMMIT_MESSAGE" value=" creating chip component" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -164,12 +171,6 @@
           <line>19</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/stitches.config.js</url>
-          <line>55</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
