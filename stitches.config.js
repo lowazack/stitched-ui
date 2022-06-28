@@ -1,4 +1,5 @@
 import {createStitches} from '@stitches/react';
+import {paddingX, paddingY} from "./src/styleHelpers";
 
 const defaultSpace = 10;
 
@@ -69,11 +70,7 @@ export const {
     },
     media: {},
     utils: {
-        px: value => {
-            return {
-                paddingLeft: value,
-                paddingRight: value,
-            }
-        }
+        px: value => paddingX(value),
+        py: value => paddingY(value)
     }
 })
