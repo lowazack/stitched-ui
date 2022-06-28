@@ -16,6 +16,7 @@ export const {
     theme: {
         colors: {
             primary: '#2d98da',
+            text: '#222222',
             textLight: '#ffffff',
             body: '#f6f9f8',
             offBodyDark: '#e1e9ec',
@@ -23,6 +24,8 @@ export const {
             border: '#808e9b',
         },
         fontSizes: {
+            body: '16px',
+            n2: '0.693889rem',
             n1: '0.833rem',
             reg: '1rem',
             p1: '1.2rem'
@@ -30,7 +33,9 @@ export const {
         fontWeights: {
             buttonWeight: 600
         },
-        fonts: {},
+        fonts: {
+            body: `'Arial', sans-serif`
+        },
         transitions: {
             allFast: 'all 200ms ease-in-out'
         },
@@ -58,7 +63,8 @@ export const {
             input: 'solid',
         },
         sizes: {
-            checkbox: '20px'
+            checkbox: '20px',
+            badgeIconSize: '1.7rem'
         }
     },
     media: {},

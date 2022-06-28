@@ -2,8 +2,8 @@ import {globalCss, styled, theme} from "../../stitches.config";
 import BasicInput from "../BasicInput";
 
 export default {
-    title: 'Form/BasicInput',
-    component: BasicInput
+    title: 'Inputs/BasicInput',
+    component: BasicInput,
 }
 
 
@@ -19,7 +19,8 @@ const globalStyles = globalCss({
 const InputCont = styled('div',{
     backgroundColor: theme.colors.offBodyDark,
     padding: theme.space.reg,
-    maxWidth: 500
+    maxWidth: 500,
+
 })
 
 

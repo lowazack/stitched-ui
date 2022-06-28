@@ -2,7 +2,7 @@ import {globalCss} from "../../stitches.config";
 import Checkbox from "../Checkbox";
 
 export default {
-    title: 'Form/Checkbox',
+    title: 'Inputs/Checkbox',
     component: Checkbox
 }
 

@@ -2,7 +2,7 @@ import Button from '../Button';
 import {globalCss} from "../../stitches.config";
 
 export default {
-    title: 'Form/Button',
+    title: 'Inputs/Button',
     component: Button,
     argTypes : {
         size: {
@@ -12,17 +12,9 @@ export default {
     }
 };
 
-const globalStyles = globalCss({
-    html: {
-        fontSize: '16px',
-    },
-    "*": {
-        boxSizing: 'border-box'
-    }
-});
 
 const Template = (args) => {
-    globalStyles();
+    setGlobalStyles();
     return <Button {...args}>Button</Button>
 };
 
