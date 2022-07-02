@@ -17,6 +17,7 @@ export const {
     theme: {
         colors: {
             primary: '#2d98da',
+            neutral: '#c2cbd0',
             text: '#222222',
             textLight: '#ffffff',
             body: '#f6f9f8',
@@ -41,7 +42,8 @@ export const {
             allFast: 'all 200ms ease-in-out'
         },
         shadows: {
-            reg: '3px 3px 15px 0px rgba(0,0,0,0.1);'
+            reg: '3px 3px 15px 0px rgba(0,0,0,0.1);',
+            sm: '3px 3px 3px 0px rgba(0,0,0,0.3);',
         },
         space: {
             sm: `${defaultSpace * 0.5}px`,
