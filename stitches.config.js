@@ -40,7 +40,9 @@ export const {
         transitions: {
             allFast: 'all 200ms ease-in-out'
         },
-        shadows: {},
+        shadows: {
+            reg: '3px 3px 15px 0px rgba(0,0,0,0.1);'
+        },
         space: {
             sm: `${defaultSpace * 0.5}px`,
             md: `${defaultSpace * 0.75}px`,

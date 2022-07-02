@@ -1,5 +1,6 @@
 import Button from '../Button';
 import {globalCss} from "../../stitches.config";
+import {setGlobalStyles} from "../helpers";
 
 export default {
     title: 'Inputs/Button',
