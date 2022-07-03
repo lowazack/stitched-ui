@@ -7,7 +7,9 @@ export default function Switch(){
 
     const [active, setActive] = useState(true)
 
-    const Container = styled('div', {});
+    const Container = styled('div', {
+        display: 'inline-flex'
+    });
     const Button = styled('button', {
         position: 'relative',
         height: 18,
