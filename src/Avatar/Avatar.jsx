@@ -1,7 +1,7 @@
 import {styled} from "@stitches/react";
 import {theme} from "../../stitches.config";
 
-export default function Avatar({image}){
+export default function Avatar({image, initials}){
     const Container = styled('div', {
         width: 50,
         height: 50,
@@ -28,7 +28,9 @@ export default function Avatar({image}){
         <Container>
             {image? <Image src={image}/> : null}
 
-            <Initials>JL</Initials>
+            <Initials>
+                {initials}
+            </Initials>
         </Container>
     )
 }

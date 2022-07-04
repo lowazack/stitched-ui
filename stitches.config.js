@@ -30,7 +30,8 @@ export const {
             n2: '0.693889rem',
             n1: '0.833rem',
             reg: '1rem',
-            p1: '1.2rem'
+            p1: '1.2rem',
+            p2: '1.44rem',
         },
         fontWeights: {
             buttonWeight: 600
@@ -61,15 +62,18 @@ export const {
             button: '2px',
             checkbox: '2px',
             input: '2px',
+            toastBox: '0 0 2px 0'
         },
         borderStyles: {
             button: 'solid',
             checkbox: 'solid',
             input: 'solid',
+            toastBox: 'solid',
         },
         sizes: {
             checkbox: '20px',
-            badgeIconSize: '1.7rem'
+            badgeIconSize: '1.7rem',
+            toastWidth: '350px',
         }
     },
     media: {},

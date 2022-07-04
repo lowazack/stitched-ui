@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="creating switch component">
-      <change afterPath="$PROJECT_DIR$/src/Avatar/Avatar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Avatar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Avatar.stories.jsx" afterDir="false" />
+    <list default="true" id="69f6e107-73b6-4eba-86ea-c22f03da57dd" name="Changes" comment="creating avatar component">
+      <change afterPath="$PROJECT_DIR$/src/Toast/Toast.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Toast/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stories/Toast.stories.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Switch/Switch.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Switch/Switch.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Avatar/Avatar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Avatar/Avatar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/Avatar.stories.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/Avatar.stories.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stitches.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/stitches.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656276823215</updated>
-      <workItem from="1656276824926" duration="62286000" />
+      <workItem from="1656276824926" duration="68522000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1656281110148</created>
@@ -154,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656801688621</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="creating avatar component">
+      <created>1656886870968</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656886870968</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +195,8 @@
     <MESSAGE value="creating chip component" />
     <MESSAGE value="more select styling" />
     <MESSAGE value="creating switch component" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating switch component" />
+    <MESSAGE value="creating avatar component" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating avatar component" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
